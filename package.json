@@ -1,0 +1,19 @@
+{
+  "name": "azure-vanilla-api",
+  "version": "1.0.0",
+  "description": "This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyavanmahajan/azure-vanilla-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyavanmahajan/azure-vanilla-api/issues"
+  },
+  "homepage": "https://github.com/divyavanmahajan/azure-vanilla-api#readme"
+}
