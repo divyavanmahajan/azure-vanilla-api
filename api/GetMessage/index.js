@@ -1,5 +1,5 @@
 module.exports = async function (context, req) {
-  context.log("JavaScript HTTP trigger function processed a request.");
+  context.log("JavaScript HTTP trigger function processed a request. Check.");
   context.res = { body: { text: "Hello from API" } };
   // if (req.query.name || (req.body && req.body.name)) {
   //     context.res = {
