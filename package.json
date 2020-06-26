@@ -4,7 +4,8 @@
   "description": "This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cp index.html styles.css build && exit 0"
   },
   "repository": {
     "type": "git",
